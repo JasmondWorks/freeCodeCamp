@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "i18n-sync-client",
+    "i18n-sync-docs",
+    "icons",
+    "main",
+    "markdown-imports",
+    "next",
+    "origin",
+    "renovate/copy-webpack-plugin-9.x"
+  ],
+  "parent": {
+    "i18n-sync-client": "main",
+    "i18n-sync-docs": "main",
+    "icons": "main",
+    "main": null,
+    "markdown-imports": "main",
+    "next": "main",
+    "origin": "main",
+    "renovate/copy-webpack-plugin-9.x": "main"
+  },
+  "order": [
+    "main",
+    "i18n-sync-client",
+    "i18n-sync-docs",
+    "icons",
+    "markdown-imports",
+    "next",
+    "origin",
+    "renovate/copy-webpack-plugin-9.x"
+  ]
+}
